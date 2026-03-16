@@ -33,7 +33,7 @@ Checkpoint 4 — Front-End Design
 
 👩‍💻 Integrantes
 
-  Camile Vitória Silva
-  Sofia Souza Rodrigues
+  Camile Vitória Silva RM566649
+  Sofia Souza Rodrigues RM566708
 
 ─────────────────────────────────────────────────────
