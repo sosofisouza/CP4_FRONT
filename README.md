@@ -24,13 +24,6 @@ Checkpoint 4 — Front-End Design
 
 ─────────────────────────────────────────────────────
 
-🚀 Como rodar
-
-  Nem precisa instalar nada!
-  Só baixar e abrir o index.html no navegador. 🙂
-
-─────────────────────────────────────────────────────
-
 👩‍💻 Integrantes
 
   Camile Vitória Silva RM566649
